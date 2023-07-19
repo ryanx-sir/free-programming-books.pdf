@@ -155,7 +155,7 @@
 
 - [《高性能MySQL（第3版）》](./mysql/高性能MySQL（第3版）中文版.pdf)
 - [《MySQL性能调优与架构设计》](./mysql/MySQL性能调优与架构设计.pdf)
-- [《MySQL技术内幕：InnoDB存储引擎》](./mysql/MySQL技术内幕：InnoDB存储引擎.pdf)
+- [《MySQL技术内幕(InnoDB存储引擎)第2版》](./mysql/MySQL技术内幕(InnoDB存储引擎)第2版.pdf)
 - [《SQL基础教程（第3版）》](./mysql/SQL基础教程.pdf)
 - [《MySQL必知必会》](./mysql/MySQL必知必会.pdf)
 - [《SQL学习指南》](./mysql/SQL学习指南.pdf)
